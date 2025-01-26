@@ -28,6 +28,10 @@ We'll then turn these insights into practical recommendations to assist the head
 
 We pulled data from various sources such as iMDB, Rotten Tomatoes, TMDB
 
+**PACKAGES USED**
+
+**pandas, numpy, seaborn, statsmodels.api, matplotlib.pyplot as plt, warnings, datetime, matplotlib.ticker import ScalarFormatter, scipy.stats, sqlite3, requests**
+
 ***INSIGHTS***
 
 **The top 10 best performing films (Source TMDB)**
