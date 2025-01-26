@@ -60,3 +60,7 @@ title                      -                    popularity
        'Horror', 'Kids and Family', 'Romance', 'Sports and Fitness',
        'Western', 'Documentary', 'Special Interest', 'Animation',
        'Cult Movies', 'Classics', 'Faith and Spirituality', 'Television']
+
+Below is an image for ratings across films from 2010 to the present.
+![image](https://github.com/user-attachments/assets/ad8b581b-a79c-4fe5-b99f-75990138c7ee)
+
