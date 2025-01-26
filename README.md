@@ -91,6 +91,32 @@ title                      -                    popularity
 
 ![image](https://github.com/user-attachments/assets/ba1b4d07-6bc5-430f-ba54-ad9ecff98dce)
 
+**Profit by genre in english movies as this is the dominant film language**
+
+![image](https://github.com/user-attachments/assets/6392b036-d64e-4907-bb01-b0993a3ffc6f)
+
+**Top Writers on box office**
+
+![image](https://github.com/user-attachments/assets/5760ce65-3a6e-4c58-9aab-d115868c40c1)
+
+
+CONCLUSIONS
+
+1. Based on the analysis, the most profitable genres are Drama, Comedy, Action, and Adventure.  
+
+2. Universal Studios, BV, and Sony are the top-performing studios. It is recommended that the client benchmark or collaborate with these studios to enhance their market presence.  
+
+3. The foreign market contributes approximately 55% of the industry's total revenue. Therefore, the client should highly consider the foreign market when planning and producing movies to maximize revenue potential.  
+
+4. For every dollar spent on production, an additional $1.4521 in gross revenue is generated. This highlights the importance of investing strategically in production budgets.  
+
+5. Movies released mid-year (June and July) and end-year (November and December) generate the highest revenue. It is advisable for the client to schedule movie releases during these months to capitalize on peak performance periods.  
+
+6. English is the dominant language in the movie industry, reaching the widest audience base compared to other languages. The client should consider producing movies primarily in English to maximize global reach and appeal.  
+
+7. a.) Gene Roddenberry, Vincent Gilligan, and Chris Morgan are among the top writers in the industry. The client is encouraged to explore hiring them for movie projects to ensure high-quality storytelling.  
+
+   b.) Among the producers analyzed, Sergey stands out as the best performer. The difference between David and Paul is negligible, meaning selecting either one would likely yield similar results in movie performance.
 
 
 
