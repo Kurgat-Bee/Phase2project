@@ -61,6 +61,8 @@ title                      -                    popularity
        'Western', 'Documentary', 'Special Interest', 'Animation',
        'Cult Movies', 'Classics', 'Faith and Spirituality', 'Television']
 
-Below is an image for ratings across films from 2010 to the present.
+**Above is an image for ratings across films from 2010 to the present. X-axis = rating, Y-axis = count**
 ![image](https://github.com/user-attachments/assets/ad8b581b-a79c-4fe5-b99f-75990138c7ee)
+
+
 
