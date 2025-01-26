@@ -61,12 +61,19 @@ title                      -                    popularity
        'Western', 'Documentary', 'Special Interest', 'Animation',
        'Cult Movies', 'Classics', 'Faith and Spirituality', 'Television']
 
-**Above is an image for ratings across films from 2010 to the present. X-axis = rating, Y-axis = count**
+**Below is an image for ratings across films from 2010 to the present. X-axis = rating, Y-axis = count**
+
 ![image](https://github.com/user-attachments/assets/ad8b581b-a79c-4fe5-b99f-75990138c7ee)
 
 
-**Above is an image for Gross earnings over the years(X-axis = Year, Y-axis = earnings)**
-**We attribute the drop in earning in 2020 to the covid pandemic
+**Below is an image for Gross earnings over the years(X-axis = Year, Y-axis = earnings)**
+**We attribute the drop in earning in 2020 to the covid pandemic**
+
 ![image](https://github.com/user-attachments/assets/eae6f455-1ecf-4019-a05b-bb503e595ed6)
+
+**Below are the most voted for genre's /most viewed by audiences**
+
+![image](https://github.com/user-attachments/assets/7cea5790-aff9-45c5-a4f0-4334ced71f70)
+
 
 
