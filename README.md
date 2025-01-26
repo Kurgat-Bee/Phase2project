@@ -30,24 +30,33 @@ We pulled data from various sources such as iMDB, Rotten Tomatoes, TMDB
 
 ***INSIGHTS***
 
-The top 10 best performing films (Source TMDB)
+**The top 10 best performing films (Source TMDB)**
 
-title                                          popularity
+title                      -                    popularity
 
- Avengers: Infinity War                         80.773
+ Avengers: Infinity War            -             80.773
  
- John Wick                                      78.123
+ John Wick                      -                78.123
  
- Spider-Man: Into the Spider-Verse              60.534
+ Spider-Man: Into the Spider-Verse        -      60.534
  
- The Hobbit: The Battle of the Five Armies      53.783
+ The Hobbit: The Battle of the Five Armies   -   53.783
  
- The Avengers                                   50.289
+ The Avengers                  -                 50.289
 
- Guardians of the Galaxy                        49.606
+ Guardians of the Galaxy             -           49.606
  
  Blade Runner 2049                              48.571
  
  Fantastic Beasts: The Crimes of Grindelwald      48.508
   
  Ralph Breaks the Internet                        48.057
+
+ **Most Popular Genres**
+
+ ['Drama', 'Science Fiction and Fantasy', 'Comedy',
+       'Mystery and Suspense', 'Action and Adventure',
+       'Art House and International', 'Musical and Performing Arts',
+       'Horror', 'Kids and Family', 'Romance', 'Sports and Fitness',
+       'Western', 'Documentary', 'Special Interest', 'Animation',
+       'Cult Movies', 'Classics', 'Faith and Spirituality', 'Television']
