@@ -8,9 +8,13 @@ We'll then turn these insights into practical recommendations to assist the head
 
 We conducted an analysis on;
 ❖	Popular genres; to determine which ones performed the best, compare recent trends on genre popularity.
+
 ❖	Audience demographic; to determine if certain languages have a better reach, and the contribution of the foreign market.
+
 ❖	Earnings- which movie made the most money; worldwide and domestic gross.
+
 ❖	Reviews and audience reception; to determine the best performing directors and writers.
+
 ❖	Production budget; to determine the impact budget has on the movie perfomance.
 ❖	Which studio has been performing best - top ten ; based on revenue generated.
 ❖	Release dates; to determine the best time of the year to debut
