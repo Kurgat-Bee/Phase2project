@@ -75,5 +75,23 @@ title                      -                    popularity
 
 ![image](https://github.com/user-attachments/assets/7cea5790-aff9-45c5-a4f0-4334ced71f70)
 
+**Earnings by genre at the box office**
+
+![image](https://github.com/user-attachments/assets/9559f8ec-a770-4c46-bc29-09628cab886e)
+
+**Best performing Studios**
+
+![image](https://github.com/user-attachments/assets/196812e9-42cd-4592-90e4-4ed19c59b135)
+
+**Best performing studios Domestic vs Foreign Gross**
+
+![image](https://github.com/user-attachments/assets/180f0303-4ae8-4393-ba46-2fa357609dd4)
+
+**Profit by Month of Release**
+
+![image](https://github.com/user-attachments/assets/ba1b4d07-6bc5-430f-ba54-ad9ecff98dce)
+
+
+
 
 
