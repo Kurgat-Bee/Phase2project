@@ -65,4 +65,8 @@ title                      -                    popularity
 ![image](https://github.com/user-attachments/assets/ad8b581b-a79c-4fe5-b99f-75990138c7ee)
 
 
+**Above is an image for Gross earnings over the years(X-axis = Year, Y-axis = earnings)**
+**We attribute the drop in earning in 2020 to the covid pandemic
+![image](https://github.com/user-attachments/assets/eae6f455-1ecf-4019-a05b-bb503e595ed6)
+
 
